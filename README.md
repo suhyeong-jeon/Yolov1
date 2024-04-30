@@ -24,3 +24,4 @@
 ### References
 ##### [https://github.com/tanjeffreyz/yolo-v1/blob/main/tests.py](https://github.com/tanjeffreyz/yolo-v1/blob/main/tests.py)
 ##### [https://github.com/aladdinpersson/Machine-Learning-Collection/tree/master/ML/Pytorch/object_detection/YOLO](https://github.com/aladdinpersson/Machine-Learning-Collection/tree/master/ML/Pytorch/object_detection/YOLO)
+##### [Yolov1 Thesis](https://arxiv.org/pdf/1506.02640)
