@@ -11,8 +11,9 @@
 
 ### ResNet18 Results   
 ##### ResNet18(pretrained) Loss & mAP
-<img src="https://github.com/suhyeong-jeon/Yolov1/assets/70623959/4b070a86-b548-47e2-b2b3-6f2bbafe285f" width="50%"><img src="https://github.com/suhyeong-jeon/Yolov1/assets/70623959/7e6f0d59-59dc-43c4-9ebd-7414ee9c4ad6" width="50%">
+<img src="https://github.com/suhyeong-jeon/Yolov1/assets/70623959/4b070a86-b548-47e2-b2b3-6f2bbafe285f" width="50%"><img src="https://github.com/suhyeong-jeon/Yolov1/assets/70623959/d471fd92-041b-4a6d-a5fd-f7569b12f2e5" width="50%">
 #####   
+
 
 </hr>
 
